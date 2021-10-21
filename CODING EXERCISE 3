@@ -10,7 +10,6 @@ class ExtracurricularEdification {
 		System.out.println("Dialing code for Antarctica: 672");
 		System.out.println("Year in which Leonardo da Vinci invented the parachute: 1515");
 		System.out.println("Speed of ketchup: 40 km per year");
-		
 	}
 
 }
