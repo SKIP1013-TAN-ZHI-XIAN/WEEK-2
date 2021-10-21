@@ -9,7 +9,6 @@ class PrintCheckerPattern {
 		System.out.println("* * * * *");
 		System.out.println(" * * * * *");
 		System.out.println("* * * * *");
-		
 	}
 
 }
@@ -25,7 +24,6 @@ class PrintSquarePattern {
 		System.out.println("*       *");
 		System.out.println("*       *");
 		System.out.println("* * * * *");
-		
 	}
 
 }
@@ -41,11 +39,11 @@ class PrintTriangularPattern {
 		System.out.println("  *   *  ");
 		System.out.println("   * *   ");
 		System.out.println("    *    ");
-		
 	}
 
 }
 
+package exercise2;
 
 class PrintStarPattern {
 
@@ -56,7 +54,6 @@ class PrintStarPattern {
 		System.out.println("   * *   ");
 		System.out.println("  *   *  ");
 		System.out.println("*       *");
-
 	}
 
 }
